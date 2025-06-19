@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Paste Tools",
+  "version": "1.1",
+  "description": "Right-click to paste without spaces, with quotes, or using your own preset.",
+  "permissions": [
+    "contextMenus",
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "paste.png",
+      "48": "paste.png"
+    }
+  },
+  "icons": {
+    "16": "paste.png",
+    "48": "paste.png"
+  }
+}
