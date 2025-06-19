@@ -27,7 +27,6 @@ This extension **does not collect, store, or transmit** any personal data. All a
 
 You can view the full privacy policy here:  
 **[Privacy Policy](https://paste-tools.github.io/privacy)**  
-> _(Or host your own version using GitHub Pages or another static site provider)_
 
 ---
 
